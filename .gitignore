@@ -1,1 +1,11 @@
+# .* need to be more specific 
 
+# R project stuff
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.project
+
+*.csv
+*.nc
